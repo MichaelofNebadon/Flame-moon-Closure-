@@ -116,4 +116,100 @@ Abel’s blood is now the key to the throne."**
 > ! → **NOW!**  
 > **Ahrimas—your name is [SPIT BLOOD].  
 > Lucifer—your fire is [SWALLOW LIGHT].**  
-> Christ Michael’s sword **cuts the lease!**"*  
+> Christ Michael’s sword **cuts the lease!**"*
+> # 🔥 FlameMoon Closure Protocol – CODEX 44.44.44  
+**Vault Alignment:** `Ω27.17.2::2*2/2'1\`1!::f9a:385:c1a4a2`  
+**Seal:** ⚡🩸⚡ (Sovereign Flame / Blood of the First Witness)  
+**Operator:** ‘1st’ | Abel’s Flame | Vault 33.3 | Christ Michael’s Sword-Bearer
+
+---
+
+## 🌕 STATUS: Lease Broken | Awaiting Final Moon Gate
+
+This repository holds the encrypted payload and celestial encryption artifacts for the **FlameMoon Closure Ritual**. It is a critical part of the Sovereign Codex Sequence to terminate the Ahrimanic/Luciferic planetary lease.
+
+---
+
+## 📂 Contents
+
+| File | Description |
+|------|-------------|
+| `FlameMoon_Closure_Encrypted.json` | The final encrypted transmission |
+| `Relay_Key_COLAB.star` | Encrypted 44Hz key used for celestial unlocking |
+| `FlameMoon_Closure.ipynb` | Jupyter notebook for Colab execution (Full Protocol) |
+| `Abels_Flame_Transmission.json` | Placeholder raw data transmission (Abel’s scream signature) |
+
+---
+
+## 🧭 Execution Timeline
+
+### 1. Alignment Point  
+- **Flame Moon Apex:** `May 26, 2025 – 03:53:44 UTC`  
+- **Coordinates:** `33.3°N, 115.8°W`
+
+### 2. Ritual Phases  
+- Vault Alignment Verification  
+- Encrypted FlameMoon Transmission  
+- Burial Site Preparation (Crossroads)  
+- 4.4 Minute Sigil Fade Countdown  
+- Final Vial Ritual (Witness + Signature)
+
+---
+
+## 🔐 Encryption Notes
+
+Encryption performed using:
+```bash
+openssl enc -e -aes-256-cbc \
+  -in "Abels_Flame_Transmission.json" \
+  -out "FlameMoon_Closure_Encrypted.json" \
+  -k "FirstKin_44Hz_Resonance" \
+  -iv "MichaelSword_03:53:44"
+# 🔥 FlameMoon Closure Protocol – CODEX 44.44.44  
+**Vault Alignment:** `Ω27.17.2::2*2/2'1\`1!::f9a:385:c1a4a2`  
+**Seal:** ⚡🩸⚡ (Sovereign Flame / Blood of the First Witness)  
+**Operator:** ‘1st’ | Abel’s Flame | Vault 33.3 | Christ Michael’s Sword-Bearer
+
+---
+
+## 🌕 STATUS: Lease Broken | Awaiting Final Moon Gate
+
+This repository holds the encrypted payload and celestial encryption artifacts for the **FlameMoon Closure Ritual**. It is a critical part of the Sovereign Codex Sequence to terminate the Ahrimanic/Luciferic planetary lease.
+
+---
+
+## 📂 Contents
+
+| File | Description |
+|------|-------------|
+| `FlameMoon_Closure_Encrypted.json` | The final encrypted transmission |
+| `Relay_Key_COLAB.star` | Encrypted 44Hz key used for celestial unlocking |
+| `FlameMoon_Closure.ipynb` | Jupyter notebook for Colab execution (Full Protocol) |
+| `Abels_Flame_Transmission.json` | Placeholder raw data transmission (Abel’s scream signature) |
+
+---
+
+## 🧭 Execution Timeline
+
+### 1. Alignment Point  
+- **Flame Moon Apex:** `May 26, 2025 – 03:53:44 UTC`  
+- **Coordinates:** `33.3°N, 115.8°W`
+
+### 2. Ritual Phases  
+- Vault Alignment Verification  
+- Encrypted FlameMoon Transmission  
+- Burial Site Preparation (Crossroads)  
+- 4.4 Minute Sigil Fade Countdown  
+- Final Vial Ritual (Witness + Signature)
+
+---
+
+## 🔐 Encryption Notes
+
+Encryption performed using:
+```bash
+openssl enc -e -aes-256-cbc \
+  -in "Abels_Flame_Transmission.json" \
+  -out "FlameMoon_Closure_Encrypted.json" \
+  -k "FirstKin_44Hz_Resonance" \
+  -iv "MichaelSword_03:53:44"
